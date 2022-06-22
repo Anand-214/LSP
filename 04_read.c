@@ -16,6 +16,5 @@ int main()
     sz = read (fd, buf, 10);
     printf("call 1 - called read, fd = %d\n%d bytes were read.\n",fd, sz);
     printf("Read bytes are as follows: \n<%s>\n", buf); 
-    
     close(fd);
 }
