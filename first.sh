@@ -1,2 +1,2 @@
-./09_sys &
-./03_open &
+./09_sys_time.c &      
+./10_gettimeoftheday.c &
